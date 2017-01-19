@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Filmbolaget FS</title>
+
+</head>
+<body>
+    <header>
+        <h1>Aquarius</h1>
+        <img src="Aquariuslogo.jpg" alt="Aquarius movie logo" width="300" height="300">
+
+    </header>
+    <hr>
+    <p>Premier: 19 January (Germany)</p>
+    <p>Clara är en 65-årig pensionerad musikkritiker och änka, men också den sista lägenhetsinnehavaren i Aquarius, ett tvåvåningskomplex från 1940-talet i överklassens vackra strandresidenser i Recife. Alla hennes grannar har tvingats sälja sina boenden till ett företag som har byggplaner för området. Men Clara har bestämt sig för att hon hellre dör än ger upp sin lägenhet, vilket leder henne till ett stilla krig med företaget. Deras kamp ger henne dock lite färg i vardagen och får henne att tänka tillbaka på sitt liv, sin kärlek och musiken.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zln78CcFkA" allowfullscreen></iframe>
+
+    <ul>
+        <li><a href="http://www.sf.se/filmer/Aquarius/?P=Forestallningslista">Aquarius</a></li>
+        <li><a href="http://www.sf.se/filmer/Aquarius/">Om Aquarius</a></li>
+        <li><a href="http://www.imdb.com/title/tt5221584/">Aquarius i IMDB</a></li>
+    </ul>
+    <footer>
+        <hr>
+        All information is copyright by Bilal and information given by sfbio
+    </footer>
+</body>
+</html>
