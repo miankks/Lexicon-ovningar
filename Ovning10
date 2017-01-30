@@ -1,0 +1,447 @@
+Index
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kaffe Party</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta charset="utf-8" />
+    <!--<link href="https://fonts.googleapis.-->
+          <!--com/css?family=Open+Sans" rel="stylesheet">-->
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-inverse navbar-fixed-top cbp-af-header" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#top">
+                        <img src="../images/DQHYXcJE.jpeg" />
+                    </a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#produkter">Produkter</a></li>
+                        <li><a href="Om oss.html">Om oss.html</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <div class="container-fluid container-sm-height">
+        <div class="row row-sm-height">
+
+            <section class="col-sm-9 col-lg-8 col-sm-push-3 col-lg-push-2 col-sm-height">
+
+                <article>
+                    <h2>Why I Went Into the Lake</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>My Name is NOT Bullwinkle</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>There's Gotta be a Penguin Up Here Somewhere</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+            </section>
+        </div>
+    </div>
+    <footer class="container-fluid">
+        <h1>FOOTER</h1>
+    </footer>
+    <script src="../scripts/jquery-1.9.1.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/classie.js"></script>
+    <script src="../scripts/cbpAnimatedHeader.js"></script>
+</body>
+</html>
+
+
+Produkter
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta charset="utf-8" />
+    <!--<link href="https://fonts.googleapis.-->
+    <!--com/css?family=Open+Sans" rel="stylesheet">-->
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-inverse navbar-fixed-top cbp-af-header" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#top">
+                        <img src="../images/DQHYXcJE.jpeg" />
+                    </a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#sights">Sights</a></li>
+                        <li><a href="#sports">Sports</a></li>
+                        <li><a href="#activites">Activities</a></li>
+                        <li><a href="#contact-us">Contact Us</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <div class="container-fluid container-sm-height">
+        <div class="row row-sm-height">
+
+            <section class="col-sm-9 col-lg-8 col-sm-push-3 col-lg-push-2 col-sm-height">
+
+                <article>
+                    <h2>Why I Went Into the Lake</h2>
+
+                    <img src="../images/Miele 20490.png" />
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>My Name is NOT Bullwinkle</h2>
+                    <img src="../images/Miele 23990.png" />
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>There's Gotta be a Penguin Up Here Somewhere</h2>
+                    <img src="../images/Saeco 18999.jpg" />
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+            </section>
+        </div>
+    </div>
+    <footer class="container-fluid">
+        <h1>FOOTER</h1>
+    </footer>
+    <script src="../scripts/jquery-1.9.1.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/classie.js"></script>
+    <script src="../scripts/cbpAnimatedHeader.js"></script>
+</body>
+</html>
+
+om oss
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kaffe Party</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta charset="utf-8" />
+    <!--<link href="https://fonts.googleapis.-->
+    <!--com/css?family=Open+Sans" rel="stylesheet">-->
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-inverse navbar-fixed-top cbp-af-header" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#top">
+                        <img src="../images/DQHYXcJE.jpeg" />
+                    </a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#produkter">Produkter</a></li>
+                        <li><a href="Om oss.html">Om oss.html</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <div class="container-fluid container-sm-height">
+        <div class="row row-sm-height">
+
+            <section class="col-sm-9 col-lg-8 col-sm-push-3 col-lg-push-2 col-sm-height">
+
+                <article>
+                    <h2>Why I Went Into the Lake</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>My Name is NOT Bullwinkle</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>There's Gotta be a Penguin Up Here Somewhere</h2>
+                    <div class="row">
+                        <p class="col-sm-10">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="col-sm-2">
+                            <input type="button" class="btn btn-primary" value="More..." />
+                        </div>
+                    </div>
+                </article>
+
+            </section>
+        </div>
+    </div>
+    <footer class="container-fluid">
+        <h1>FOOTER</h1>
+    </footer>
+    <script src="../scripts/jquery-1.9.1.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/classie.js"></script>
+    <script src="../scripts/cbpAnimatedHeader.js"></script>
+</body>
+</html>
+
+css
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top:80px;
+}
+
+.navbar{
+    margin-bottom:0px;
+    padding: 10px 15px;
+    -webkit-transition:all 0.5s;
+    transition:all 0.5s;
+    height:80px;
+}
+
+
+.navbar img{
+    padding:0px;
+    height:20%;
+    width:20%;
+    
+}
+.cbp-af-header-shrink{
+    padding-top:5px;
+    padding-bottom:5px;
+    opacity:0.9;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #bbb;
+}
+footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+article {
+    padding: 40px;
+}
+article img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    box-shadow: 6px 6px 8px #777;
+    /*margin-bottom: 20px;*/
+}
+article p {
+    font-size: 16px;
+}
+
+@media (max-width: 767px) {
+
+    .range-list h4 {
+        display: inline;
+        font-size: 18px;
+    }
+
+    .range-list a {
+        display: block;
+    }
+
+    .range-list img {
+        width: 33%;
+        height: 33%;
+        margin-right: 10px;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+
+}
+
+
+/* The following code is used to create same-sized columns 
+   in a multi-column layout.
+   Code from:  
+   http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
+*/
+/* columns of same height styles */
+.container-xs-height {
+    display:table;
+    padding-left:0px;
+    padding-right:0px;
+}
+.row-xs-height {
+    display:table-row;
+}
+.col-xs-height {
+    display:table-cell;
+    float:none;
+}
+@media (min-width: 768px) {
+    .container-sm-height {
+        display:table;
+        padding-left:0px;
+        padding-right:0px;
+    }
+    .row-sm-height {
+        display:table-row;
+    }
+    .col-sm-height {
+        display:table-cell;
+        float:none;
+    }
+}
+@media (min-width: 992px) {
+    .container-md-height {
+        display:table;
+        padding-left:0px;
+        padding-right:0px;
+    }
+    .row-md-height {
+        display:table-row;
+    }
+    .col-md-height {
+        display:table-cell;
+        float:none;
+    }
+}
+@media (min-width: 1200px) {
+    .container-lg-height {
+        display:table;
+        padding-left:0px;
+        padding-right:0px;
+    }
+    .row-lg-height {
+        display:table-row;
+    }
+    .col-lg-height {
+        display:table-cell;
+        float:none;
+    }
+}
