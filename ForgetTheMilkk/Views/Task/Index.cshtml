@@ -1,0 +1,31 @@
+﻿@model List<string>
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <p>Add a task</p>
+    <form action="@Url.Action("Add")" method="post">
+        <input type="text" class="input-lg col-xs-12" name="tasks" autofocus />
+        <button type="submit" formaction="@Url.Action("Add")" method="post">Submit</button>
+    </form>
+</div>
+
+<h3>@Model.Count() task(s)</h3>
+<table class="table">
+    <tr>
+        <th>Description</th>
+    </tr>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>
+                @task
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
