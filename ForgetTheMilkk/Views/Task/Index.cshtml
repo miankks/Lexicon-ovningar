@@ -1,4 +1,4 @@
-﻿@model List<string>
+﻿@model List<ForgetTheMilkk.Controllers.Task>
 
 
 @{
@@ -8,7 +8,7 @@
 <div class="jumbotron">
     <p>Add a task</p>
     <form action="@Url.Action("Add")" method="post">
-        <input type="text" class="input-lg col-xs-12" name="tasks" autofocus />
+        <input type="text" class="input-lg col-xs-12" name="task" autofocus />
         <button type="submit" formaction="@Url.Action("Add")" method="post">Submit</button>
     </form>
 </div>
@@ -17,14 +17,16 @@
 <table class="table">
     <tr>
         <th>Description</th>
+        <th>Due date</th>
     </tr>
     <tbody>
         @foreach (var task in Model)
         {
             <tr>
                 <td>
-                @task
+                @task.Description
                 </td>
+                <td>@(task.DueDate.HasValue? @task.DueDate.Value.ToShortDateString(): "")</td>
             </tr>
         }
     </tbody>

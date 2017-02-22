@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ForgetTheMilkk
+namespace ForgetTheMilk
 {
     public class BundleConfig
     {
